@@ -1,0 +1,55 @@
+{
+  "_from": "gif-encoder-2",
+  "_id": "gif-encoder-2@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-fsRAKbZuUoZ7FYGjpFElmflTkKwsn/CzAmL/xDl4558aTAgysIDCUF6AXWO8dmai/ApfZACbPVAM+vPezJXlFg==",
+  "_location": "/gif-encoder-2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gif-encoder-2",
+    "name": "gif-encoder-2",
+    "escapedName": "gif-encoder-2",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gif-encoder-2/-/gif-encoder-2-1.0.5.tgz",
+  "_shasum": "872ae04d8028de4a3417646ceb80dda88d6247b9",
+  "_spec": "gif-encoder-2",
+  "_where": "/var/www/mavel/data/perfect",
+  "author": {
+    "name": "benjaminadk",
+    "email": "benjaminadk@gmail.com",
+    "url": "https://github.com/benjaminadk"
+  },
+  "bugs": {
+    "url": "https://github.com/benjaminadk/gif-encoder-2/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "GIF generator for Node.js",
+  "devDependencies": {
+    "canvas": "2.5.0"
+  },
+  "homepage": "https://github.com/benjaminadk/gif-encoder-2#readme",
+  "keywords": [
+    "gif",
+    "encoder",
+    "image",
+    "node"
+  ],
+  "license": "UNLICENSE",
+  "main": "index.js",
+  "name": "gif-encoder-2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminadk/gif-encoder-2.git"
+  },
+  "version": "1.0.5"
+}
